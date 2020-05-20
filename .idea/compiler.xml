@@ -9,5 +9,6 @@
         <module name="Cross_Zero_console_game_Maven" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
